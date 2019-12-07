@@ -5,7 +5,7 @@ import sbt._
 object Dependencies {
   object Versions {
     val ocensusVersion = "0.2.0"
-    val mu = "0.18.0"
+    val mu = "0.19.2-SNAPSHOT"
     val protobuf = "3.6.1"
     val scalaTest = "3.0.5"
   }
